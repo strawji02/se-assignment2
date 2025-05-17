@@ -69,9 +69,9 @@
 
 ## Use case description : 자전거 대여 정보 조회
 
-| Actor Action | System Response | External Actor Action |
-| --- | --- | --- |
-| 1. 사용자가 '자전거 대여 정보 조회' 메뉴를 선택한다. | 2. 시스템은 사용자가 대여 중인 자전거 정보 리스트를 화면에 출력하며, 각 항목에 대해 자전거 ID, 자전거 제품명을 함께 출력한다. |  |
+| Actor Action | System Response |
+| --- | --- |
+| 1. 사용자가 '자전거 대여 정보 조회' 메뉴를 선택한다. | 2. 시스템은 사용자가 대여 중인 자전거 정보 리스트를 화면에 출력하며, 각 항목에 대해 자전거 ID, 자전거 제품명을 함께 출력한다. | 
 
 ## Alternative Courses
 
