@@ -32192,7 +32192,8 @@
 										"reference": {
 											"$ref": "AAAAAAGW31hBtn24324="
 										},
-										"multiplicity": "1"
+										"aggregation": "shared",
+										"multiplicity": "0..1"
 									},
 									"end2": {
 										"_type": "UMLAssociationEnd",
@@ -32262,7 +32263,7 @@
 										"reference": {
 											"$ref": "AAAAAAGW30t8iCnTrQ8="
 										},
-										"multiplicity": "1"
+										"multiplicity": "1..*"
 									},
 									"end2": {
 										"_type": "UMLAssociationEnd",
@@ -32273,6 +32274,7 @@
 										"reference": {
 											"$ref": "AAAAAAGW4/LCfokmweo="
 										},
+										"aggregation": "composite",
 										"multiplicity": "1"
 									}
 								},
@@ -32302,6 +32304,7 @@
 										"reference": {
 											"$ref": "AAAAAAGW31hBtn24324="
 										},
+										"aggregation": "shared",
 										"multiplicity": "0..*"
 									}
 								}
@@ -36248,9 +36251,9 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1040,
+									"left": 1034,
 									"top": 268,
-									"width": 7.22998046875,
+									"width": 19.5126953125,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -36258,7 +36261,7 @@
 										"$ref": "AAAAAAGW5CY9fqn6aN8="
 									},
 									"edgePosition": 2,
-									"text": "1"
+									"text": "1..*"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -36820,17 +36823,17 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 715,
+									"left": 696,
 									"top": 268,
-									"width": 7.22998046875,
+									"width": 21.68359375,
 									"height": 13,
-									"alpha": -0.5235987755982988,
-									"distance": 25,
+									"alpha": -0.8851226529195506,
+									"distance": 32.64965543462902,
 									"hostEdge": {
 										"$ref": "AAAAAAGW5CpxrbhI1D8="
 									},
 									"edgePosition": 2,
-									"text": "1"
+									"text": "0..1"
 								},
 								{
 									"_type": "EdgeLabelView",
