@@ -1,4 +1,5 @@
-개인 코드 : 80692
+- 개인 코드 : 80692
+- 깃허브 주소 : https://github.com/strawji02
 
 | No  | Requirements | Use case |
 | --- | ------------ | -------- |
